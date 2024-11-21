@@ -1,0 +1,169 @@
+body{
+    background-color: rgb(206, 203, 203);
+}
+.logo{
+    margin-left: 351px;
+    margin-top: 59px;
+}
+.menu ul{
+    display: flex;
+    gap: 54px;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding-left: 45%;
+    font-size: 20;
+    margin-top: -59;
+    text-transform: uppercase;
+}
+.iconos ul{
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    padding-left: 85%;
+    margin-top: -50;
+
+}
+h1{
+    font-family: sans-serif;
+    font-size: 40;
+    padding-left: 351px;
+    padding-top: 349px;
+}
+.pitbull{
+    background: linear-gradient(to right, #E70FAA 0%, #00C0FD 100%);
+    -webkit-background-clip:text; 
+    background-clip: text;
+    color: transparent;
+}
+.foto img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%; 
+    border: 10px solid;
+    background: linear-gradient(to right, #E70FAA 0%, #00C0FD 100%);
+    color: transparent;
+    margin-left: 60%;
+    margin-top: -349px;
+}
+.titulo{
+    padding-left: 40%;
+    padding-top: 200;
+    font-family:sans-serif ;
+    font-size: 48px;
+    color: #42446E;
+}
+.subtitulo{
+    padding-left: 38%;
+    font-size: 20;
+    font-family: sans-serif;
+    color: #666;
+}
+
+.tecno{
+    display: flex;
+    gap: 102px;
+    flex-wrap: wrap;
+    list-style-type: none;
+    margin-top: 118px;
+    margin-left: 351px;
+
+}
+.proyect ul{
+    padding-left: 220px;
+    padding-top: 92px;
+    display: flex;
+    gap: 44px;
+    flex-wrap: wrap;
+    list-style-type: none;
+    
+
+}
+
+.proyect img{
+    width: 400px;
+    height: 260px;
+    border-radius: 5%;
+    border: solid;
+}
+.proyect2 {
+    display: flex; 
+    gap: 44px; 
+    flex-wrap: wrap; 
+    margin-left: 220px;
+    margin-top: -60px;
+}
+
+.proyect2 ul{
+    display: flex;
+    gap: 24px; 
+    flex-wrap: wrap;
+    background-color: azure;
+    width: 400px;
+    height: 568px;
+    padding-left: 0px;
+    list-style-type: none;
+    border-radius: 5%;
+    border: solid;
+    
+}
+
+.proyect2 h1 {
+    padding-top: 1px;
+    padding-left: 50px;
+    font-size: 48px;
+    color: #42446E;
+    font-family: sans-serif;
+}
+
+.proyect2 p {
+    padding-left: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #666;
+}
+
+.proyect2 h3 {
+    padding-left: 600px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #42446E;
+}
+.vista ul{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    list-style-type: none;
+    justify-content: center;
+    font-size: 30;
+    text-transform: uppercase;
+    
+}
+.final {
+    background-color: gray;
+    text-align: center;
+    padding: 20px;
+    margin-top: auto; 
+    
+}
+
+html, body {
+    height: 100%; 
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+.final ul{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
